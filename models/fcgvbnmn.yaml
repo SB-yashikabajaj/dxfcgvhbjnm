@@ -7,3 +7,5 @@ properties:
     type: string
     x-stoplight:
       id: 7ixfed7kk9xnl
+examples:
+  - id: string
